@@ -1,0 +1,21 @@
+<ul>
+{% for item in items  %}
+
+<li>{{item}}</li>
+{% endfor %}
+</ul>
+
+
+<div>
+    {% for i in range(obj['page_start'],obj['page_end']+1) %}
+    {% if i == obj['page_idx'] %}
+    <b>{{i}}</b>
+    {% else %}
+    <a href="/?page={{i}}">{{i}}</a>
+    {% endif %}
+
+    {% endfor %}
+</div>
+
+
+
