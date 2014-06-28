@@ -1,0 +1,5 @@
+setup.py
+paginate_wrapper.egg-info/PKG-INFO
+paginate_wrapper.egg-info/SOURCES.txt
+paginate_wrapper.egg-info/dependency_links.txt
+paginate_wrapper.egg-info/top_level.txt

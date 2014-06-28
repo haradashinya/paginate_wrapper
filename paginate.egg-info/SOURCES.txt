@@ -1,0 +1,8 @@
+README
+setup.py
+paginate/__init__.py
+paginate/paginate.py
+paginate.egg-info/PKG-INFO
+paginate.egg-info/SOURCES.txt
+paginate.egg-info/dependency_links.txt
+paginate.egg-info/top_level.txt

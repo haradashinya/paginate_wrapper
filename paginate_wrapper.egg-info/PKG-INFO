@@ -1,0 +1,15 @@
+Metadata-Version: 1.1
+Name: paginate-wrapper
+Version: 0.1.2
+Summary: minimal pagination
+Home-page: https://github.com/okamurayasuyuki/paginate-wrapper
+Author: haradashinya
+Author-email: haradashinya@gmail.com
+License: PSL
+Description: minimal minimal...
+Keywords: pagination
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: License :: OSI Approved :: Python Software Foundation License
+Classifier: Programming Language :: Python
+Classifier: Topic :: Software Development
