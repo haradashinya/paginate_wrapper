@@ -1,8 +1,8 @@
 Metadata-Version: 1.1
 Name: paginate-wrapper
-Version: 0.1.2
+Version: 0.1.4
 Summary: minimal pagination
-Home-page: https://github.com/okamurayasuyuki/paginate-wrapper
+Home-page: https://github.com/okamurayasuyuki/paginate_wrapper
 Author: haradashinya
 Author-email: haradashinya@gmail.com
 License: PSL

@@ -10,16 +10,17 @@ classifiers = [
 
 
 setup(
-        name='paginate_wrapper',
-        version='0.1.2',
-        description='minimal pagination',
-        long_description='minimal minimal...',
-        classifiers=classifiers,
-        keywords=['pagination',],
-        author='haradashinya',
-        author_email='haradashinya@gmail.com',
-        url='https://github.com/okamurayasuyuki/paginate-wrapper',
-        license='PSL',
+    name='paginate_wrapper',
+    version='0.1.4',
+    description='minimal pagination',
+    long_description='minimal minimal...',
+    classifiers=classifiers,
+    keywords=['pagination',],
+    packages=['paginate_wrapper'],
+    author='haradashinya',
+    author_email='haradashinya@gmail.com',
+    url='https://github.com/okamurayasuyuki/paginate_wrapper',
+    license='PSL',
 )
 
 
